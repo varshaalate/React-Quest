@@ -5,8 +5,10 @@ import Example1 from './components/stateandprprs/Example1'
 import Example2 from './components/use-context/Example2'
 import Language from './components/use-context/Language'
 import Calculation from './components/use-context/Calculation'
-import Focus from './components/use-effect/Focus'
-import Counter from './components/use-effect/Counter'
+import Counter from './components/use-ref/Counter'
+import Focus from './components/use-ref/Focus'
+import CounterUseEcceft from './components/use-effect/CounterUseEcceft'
+import Timer from './components/use-effect/Timer'
 
 function App() {
   // const [count, setCount] = useState(0)
@@ -20,6 +22,8 @@ function App() {
       <Calculation/>
       <Focus/>
       <Counter/>
+      <CounterUseEcceft/>
+      <Timer/>
       
     </>
   )
