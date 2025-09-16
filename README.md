@@ -1,9 +1,9 @@
 
 # Daily Dose Of React
 
-Started With States and Props
+# Started With States and Props
 
-#React Hooks 
+# React Hooks 
 
     1. Use State
     2. Use Effect
