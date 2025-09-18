@@ -9,12 +9,14 @@ import Counter from './components/use-ref/Counter'
 import Focus from './components/use-ref/Focus'
 import CounterUseEcceft from './components/use-effect/CounterUseEcceft'
 import Timer from './components/use-effect/Timer'
+import RoutesExapmple from './components/routes/RoutesExapmple'
 
 function App() {
   // const [count, setCount] = useState(0)
 
   return (
     <>
+      <RoutesExapmple/>
       <Example title = "Calculator"/>
       <Example1 title= "Button On and OFF"/>
       <Example2/>
