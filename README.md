@@ -12,13 +12,14 @@ B.  React Hooks
 
 C. React Routes
  1. Relative Path :
-
 - Does not start with /.
 - Its context is relative to the parent route.
 Example:
   Suppose inside /dashboard, you have nested routes like settings and profile.
   Using profile will resolve to /dashboard/profile.
   Use relative paths when working with nested routes.
+
+
 
 2.Absolute Path
  - Always starts with /.
