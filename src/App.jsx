@@ -10,13 +10,14 @@ import Focus from './components/use-ref/Focus'
 import CounterUseEcceft from './components/use-effect/CounterUseEcceft'
 import Timer from './components/use-effect/Timer'
 import RoutesExapmple from './components/routes/RoutesExapmple'
+import Home from './components/routes/home'
 
 function App() {
   // const [count, setCount] = useState(0)
 
   return (
     <>
-      <RoutesExapmple/>
+      {/* <RoutesExapmple/>
       <Example title = "Calculator"/>
       <Example1 title= "Button On and OFF"/>
       <Example2/>
@@ -25,7 +26,8 @@ function App() {
       <Focus/>
       <Counter/>
       <CounterUseEcceft/>
-      <Timer/>
+      <Timer/> */}
+      <Home/>
       
     </>
   )
