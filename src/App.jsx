@@ -17,7 +17,7 @@ function App() {
 
   return (
     <>
-      {/* <RoutesExapmple/>
+      <RoutesExapmple/>
       <Example title = "Calculator"/>
       <Example1 title= "Button On and OFF"/>
       <Example2/>
@@ -26,7 +26,7 @@ function App() {
       <Focus/>
       <Counter/>
       <CounterUseEcceft/>
-      <Timer/> */}
+      <Timer/>
       <Home/>
       
     </>
