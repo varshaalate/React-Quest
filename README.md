@@ -27,3 +27,9 @@ Example:
 Example:
   /dashboard will always point to the dashboard page directly, regardless of nesting.
   Use absolute paths when you want to define a route from the application root.
+
+
+
+
+
+
