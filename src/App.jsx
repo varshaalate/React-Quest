@@ -12,7 +12,8 @@ import Timer from './components/use-effect/Timer'
 import RoutesExapmple from './components/routes/RoutesExapmple'
 import Home from './components/routes/home'
 import EventHandling from './components/enenthandling/EventHandling'
-
+import IfElse from './components/ConditionalRendering/ifElse'
+IfElse
 function App() {
   // const [count, setCount] = useState(0)
 
@@ -29,7 +30,8 @@ function App() {
       <CounterUseEcceft/>
       <Timer/>
       <Home/> */}
-      <EventHandling/>
+      {/* <EventHandling/> */}
+      <IfElse/>
       
     </>
   )
