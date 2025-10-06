@@ -13,7 +13,10 @@ import RoutesExapmple from './components/routes/RoutesExapmple'
 import Home from './components/routes/home'
 import EventHandling from './components/enenthandling/EventHandling'
 import IfElse from './components/ConditionalRendering/ifElse'
-IfElse
+import ListAndKeys from './components/Listandkeys/ListAndKeys'
+import ListandKeysObject from './components/Listandkeys/ListandKeysObject'
+import Component from './components/Listandkeys/Component'
+import User from './components/Listandkeys/User'
 function App() {
   // const [count, setCount] = useState(0)
 
@@ -31,7 +34,10 @@ function App() {
       <Timer/>
       <Home/> */}
       {/* <EventHandling/> */}
-      <IfElse/>
+      {/* <IfElse/> */}
+      {/* <ListAndKeys/> */}
+      {/* <ListandKeysObject/> */}
+      <Component/>
       
     </>
   )
