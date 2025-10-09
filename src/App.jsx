@@ -17,6 +17,7 @@ import ListAndKeys from './components/Listandkeys/ListAndKeys'
 import ListandKeysObject from './components/Listandkeys/ListandKeysObject'
 import Component from './components/Listandkeys/Component'
 import User from './components/Listandkeys/User'
+import Uncontrolled from './components/FormsAndUncontrolled/Uncontrolled'
 function App() {
   // const [count, setCount] = useState(0)
 
@@ -37,7 +38,8 @@ function App() {
       {/* <IfElse/> */}
       {/* <ListAndKeys/> */}
       {/* <ListandKeysObject/> */}
-      <Component/>
+      {/* <Component/> */}
+      <Uncontrolled/>
       
     </>
   )
